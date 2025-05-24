@@ -25,7 +25,7 @@ PasswordCheck is a Python-based application that allows users to verify whether 
 * Implement batch processing to check multiple passwords simultaneously.  
 * Add support for checking passwords against local breach databases for offline verification.
 
-## **🙌 Acknowledgements**
+## **Acknowledgements**
 
 * [Have I Been Pwned](https://haveibeenpwned.com/) for providing the API and breach data.  
 * [Requests Library](https://docs.python-requests.org/en/latest/) for handling HTTP requests.
